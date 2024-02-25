@@ -40,5 +40,4 @@ Kubernetes is chosen as the container orchestration tool for its maturity, relia
 
 ## Getting Started
 
-Ensure you have a Kubernetes cluster set up using Cops, the vprofile application containerized, and the necessary EBS volume created. If not, refer to the specific projects mentioned above.
-
+Ensure you have a Kubernetes cluster set up using Cops, the vprofile application containerized, and the necessary EBS volume created. 
