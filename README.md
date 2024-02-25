@@ -37,7 +37,3 @@ Kubernetes is chosen as the container orchestration tool for its maturity, relia
 
 6. **Deploy on Kubernetes:**
    - Use the kubectl command to apply the Kubernetes definition files and deploy the vprofile web application.
-
-## Getting Started
-
-Ensure you have a Kubernetes cluster set up using Cops, the vprofile application containerized, and the necessary EBS volume created. 
